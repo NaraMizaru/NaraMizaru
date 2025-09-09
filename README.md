@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Muhamad Hilal from Sukabumi, Indonesia<br><br>- 🔭 I’m student at SMK Negeri 2 Sukabumi<br>- 📚 I'm currently learning NextJS<br>- ⚡ In my free time I sleep, eat, coding and repeat</p>
+<p align="left">I'm Muhamad Hilal from Sukabumi, Indonesia<br><br>- 🔭 I’m student at SMK Negeri 2 Sukabumi<br>- 📚 I'm currently learning GO<br>- ⚡ In my free time I sleep, eat, coding and repeat</p>
 
 ###
 
